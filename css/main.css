@@ -1,0 +1,30 @@
+
+/*  Footer  */
+footer{
+    padding: 10px 0;
+    border-top: 1px #dedede solid;
+    background: #f7f7f7;
+    text-align: center;
+}
+
+footer .rights{
+    color: #3b3b3b;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    margin-top: 30px;
+    line-height: 25px;
+}
+
+footer .rights a{
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    color: #2D2D5E;
+}
+
+a{
+    color: #2D2D5E;
+}
+footer img{
+    max-width: 10%;
+}
